@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "Bash(python:*)"
+      "Bash(python:*)",
+      "Read(//d/ACC Lab Dropbox/ACC Lab/Nicole Lee/eOPN3 manuscript/Data compilation/Trumelan/2. Processed/**)"
     ],
     "deny": []
   }
